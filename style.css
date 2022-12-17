@@ -14,3 +14,16 @@ body{
 .classGeneral{
   font-family: "Secular One";
 }
+#map { 
+  height: 60vh;
+  width: 100%;
+}
+.gambar_cuaca{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.leaflet-popup-content-wrapper {
+  width: 100%;
+}
